@@ -1,23 +1,26 @@
 # 您好/Hello
-欢迎大家我的Github Profile
-我是@_verysad (Discord), bentcookie28623 (我的世界）
-我是新加坡华人 （可是我的华文很差。）
-我喜欢地铁列车 （香港，新加坡，中国，台湾）
-现在学粤语 （也是普通话）
-请多指教。
+大家好！我是@_verysad,或bentcookie28623.
+我來到新加坡、我是華人！（我的中文非常差，不好意思！）
+我喜歡：
+臺北捷運
+新加坡地鐵
+香港港鐵
+中國地鐵。
+啊 也是游戲啊！
+我現正學粵語。
+請多多執教！
 
-Welcome to my Github Profile.
-I am @_verysad (Discord), bentcookie28623 (Minecraft)
-I am a Singaporean Chinese (but my chinese is bad)
-I like MRT Systems/MTR/Trains (HK, SG, China, Taiwan)
-Currently learning Cantonese (and Mandarin)
-Please give advice.
+hi!!! i am verysad or bentcookie28623
+i am singaporean, chinese! (but its bad)
+I like:
+Taipei MRT
+Singapore MRT
+MTR
+China Metro
+oh and also games!!
+i am currently learning cantonese!!!
+please give advice!! 
 
-# 我做什么呢？/What do I do?
-I just do remodelling of base trains in the MTR Mod.
-
-谢谢大家读我的README！
-Thank you for reading my README!
 
 <!---
 wwr-axyr/wwr-axyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
